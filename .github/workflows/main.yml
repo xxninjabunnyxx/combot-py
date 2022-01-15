@@ -1,4 +1,3 @@
-
 name: Main branch workflow
 on:
   pull_request:
